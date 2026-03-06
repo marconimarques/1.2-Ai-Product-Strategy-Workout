@@ -16,7 +16,7 @@ You can practice alone, or you can start the day with your team by solving one p
 
 Use `GO` to let the coach pick a mode, or `GO <MODE>` to force it (`ECON`, `MOAT`, `DIFF`, `TRUST`, `PRICING`, `ORG`). If you don’t force a mode, the coach rotates and avoids repeating the same mode twice in a row.
 
-## Knowledge base (source of truth)
+## Knowledge base 
 
 The coach is grounded in:
 
