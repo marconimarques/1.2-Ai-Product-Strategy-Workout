@@ -1,6 +1,6 @@
 ﻿# Product Strategy Coach
 
-This folder contains a Codex skill for a **10–15 minute AI product strategy drill**: one difficult, realistic multiple-choice scenario, then grading + coaching.
+This folder contains a Codex skill for a **10–15 minute AI product strategy drill**: one realistic multiple-choice scenario, then grading + coaching.
 
 It can take a while to pose a question because it reads and synthesizes the local `.txt` strategy docs. The point is to assimilate that AI Product Strategy content into faster product decisions.
 
