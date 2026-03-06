@@ -1,0 +1,225 @@
+How to Create an AI Product Strategy: The AI Strategic Lens Framework
+The AI era is not about adding features. It’s about building compounding moats. A proven AI product strategy framework with examples.
+As a Product Lead at OpenAI, I’ve had a front-row seat to how AI is reshaping industries.
+I’ve seen firsthand the mistakes teams are making and how costly they become within a matter of days.
+And I’m here to save you tons of time, resources, your seat at the table when the AI winners are chosen, and maybe even save your job as a product or engineering leader.
+That’s why today, I’m going to walk you through (with examples):
+Why 90% of AI Products Will Fail
+The AI Strategy Death Spiral
+My Proven AI Strategy Framework: The AI Strategic Lens
+How to Create an AI Product Strategy in 7 Simple Steps
+The 20-Step AI Product Strategy Checklist
+My Scary Yet Friendly Advice At The End
+But before we dive into anything, first let’s understand why 90% of AI products are going to fail (hint: no strategy moat)
+1. Why 90% of AI Products Will Fail (and Why the Winners Will Own the Market for a Decade)
+Every product leader I speak to right now says the same thing:
+"We know AI is critical. We just don’t know how to build it right."
+They’ve got world-class resources but don't just know what to do.
+Here’s the harsh truth:
+AI is not a “feature” you bolt onto an app. It’s a new product era.
+And in every product era, there are only two outcomes:
+A small handful of companies become category-defining winners.
+Everyone else becomes a feature inside those winners’ ecosystems.
+We’ve seen this movie before:
+In the mobile era, Instagram ate entire industries while legacy photo apps vanished.
+In the cloud era, Salesforce and AWS became the backbone of enterprise software, while competitors faded into irrelevance.
+Now in the AI era, the gap between “got it right” and “missed the mark” is going to be even wider because AI compounds faster than any previous product wave.
+The AI Shift: Moats >>> Models
+Most teams believe AI product strategy is about choosing the right model:
+GPT-4, Claude, Gemini, or an open-source LLaMA variant.
+That’s the first mistake.
+Models are a commodity.
+They get better every 90 days, and your competitor can plug into the same API tomorrow.
+The real game is moats:
+Data Moats: Owning unique, high-signal data that trains or fine-tunes your AI to deliver value no one else can.
+Behavioral Moats: Designing user interactions that create reinforcing loops where the product gets smarter the more it’s used.
+Workflow Moats: Embedding AI into critical workflows so deeply it becomes the default operating system for users.
+Let me share two recent examples I’ve seen (without naming the companies, of course):
+The Loser: A Fortune 500 SaaS company “experimented” with AI by adding a chatbot to their app. It hit 100K users in 3 months and the execs celebrated. Six months later, usage collapsed because the bot didn’t solve a core business pain and competitors cloned it in weeks. AI costs exploded with no scaling strategy, and the product is now a dead tab in the app.
+The Winner: A small legal tech startup built an AI-driven document review tool with one strategic wedge: compressing M&A review time. They created a proprietary feedback loop with lawyers correcting outputs, making the AI smarter every week. By pricing on outcomes instead of tokens, they scaled fast and were acquired for 9 figures in 18 months.
+Same technology. Completely different strategy. And definitely different results.
+You have to understand that…
+Your AI Product Strategy Is the New PMF
+In 2010, every founder and PM was obsessed with one phrase: Product-Market Fit. It was the holy grail.
+Today, AI Product Strategy is the new PMF.
+Without it, you might get some users.
+You might even get a viral moment.
+But you won’t build a defensible business.
+Because in AI, speed is not enough.
+AI compounds, which means if you point the flywheel in the wrong direction early, you’re compounding mistakes.
+If you gather the wrong data, your model gets dumber at scale.
+If you design the wrong UX, you teach users the wrong behavior loops.
+If you pick the wrong business model, every marginal user costs you money.
+Your AI product strategy is the DNA of your product.
+If the DNA is wrong, no amount of growth hacks or funding will save it.
+Now that you understand why AI product strategy is going to be your moat, let’s dive deep into the exact details.
+But What is an AI Product Strategy?
+AI product strategy is the art and science of designing products, data systems, and business models around the unique dynamics of artificial intelligence to create compounding value, at scale.
+Unlike traditional product strategy, which focuses on market fit and feature-roadmap alignment, AI product strategy adds three non-negotiable dimensions:
+Probabilistic Outputs: Designing for variability and trust in systems that can’t guarantee deterministic results.
+Compounding Loops: Building proprietary data and feedback mechanisms that make the product smarter and more defensible with every use.
+Economic Alignment: Managing inference costs, model-mixing, and value-based pricing so AI scales profitably at 10x, 100x users.
+But how do you make sure you’re winning on all fronts without compromising on one thing?
+My AI Strategic Lens framework is the answer.
+This is what I’ve built after years of working and building AI at one of the best companies in the world.
+2. The AI Strategy Death Spiral: Why Most Leaders Are Flying Blind
+Before we get to the lens, we need to talk about the traps.
+The reason so many well-funded, talented teams are failing is that they get caught in what I call The AI Strategy Death Spiral, three traps that look like progress but pull you deeper into failure:
+The Red Ocean Trap: The Fight You Can't Win
+AI isn’t creating vast new markets overnight. It’s mostly amplifying competition in existing ones.
+Startups are charging into these red oceans with clever AI wrappers, only to be crushed when leaders like Microsoft or Adobe replicate their feature and ship it to millions in a single update.
+Chegg’s collapse is one side of this coin.
+The other is early AI code-completion startup Kite.
+They went head-to-head with GitHub Copilot. Microsoft had better data, distribution, and economics. Kite didn’t stand a chance.
+The "Cool Demo" Trap: The Illusion of Progress
+Generative AI makes it dangerously easy to ship magic demos. A few API calls and you have a feature that looks like the future.
+But most of these die in the “last 20%”.
+The gap between a cool demo and a reliable, valuable product. The output is 80% good, but that missing 20% makes it unusable at scale. Users abandon it after the novelty wears off.
+Jasper AI lived this firsthand. They built one of the hottest early AI marketing tools, raised $100M+, then saw their core value commoditized when OpenAI shipped ChatGPT with similar capabilities.
+The Platform Trap: Building on Quicksand
+AI has created a gold rush of “wrappers”...
+Thin products built on top of foundation model APIs like GPT-4, Claude, and Gemini.
+They launch fast, feel magical, and raise capital quickly. But most of them are unknowingly building on unstable ground.
+Here’s the harsh reality: the same platforms powering your product are also your biggest competitors.
+Your differentiation evaporates overnight: A single API update can replicate 80% of your product’s value.
+You’re exposed to platform risk: When OpenAI adjusted pricing and rate limits, dozens of early AI startups saw their unit economics implode in a single quarter.
+You don’t own your moat: If all you’ve built is a thin UX layer over someone else’s model and public data, you’re not building a product. You’re running an experiment on rented land.
+Now, if you want to avoid all these deadly mistakes, just follow this.
+3. My Proven AI Strategy Framework: The AI Strategic Lens
+The AI Strategic Lens framework is a simple, three-step model that forces you to ask the right questions in the right order, moving from the broad market landscape to the specifics of your execution:
+Lens 1: The Market Lens (Where to Play)
+The first lens forces you to look outward. Before you fall in love with your solution, you must understand the competitive arena. In the AI era, this is more critical than ever.
+Principle 1: Identify Your Arena
+Every AI product competes in one of three arenas. Your strategy changes dramatically depending on which one you’re in:.
+The Pioneer (AI-Native): You're creating a completely new market that couldn't exist before AI. Your main challenge isn't competition; it's category creation. Example: Cognition's Devin, the autonomous AI software engineer. It's not a better tool for developers; it's a new paradigm entirely.
+The Disruptor (AI-Disrupted): You're using AI to fundamentally reimagine an existing workflow, making it 10x better. You're attacking an established market with a new weapon. Example: Descript. Instead of using a complex timeline, you edit video by editing text. It's still video editing, but the method is radically different and more accessible.
+The Enhancer (AI-Enhanced): You're an incumbent leveraging AI to strengthen an existing product. Your goal is to fortify your market share and defend against disruptors. Example: Adobe integrating Firefly's generative AI directly into Photoshop. They're making a product people already use even more powerful.
+Principle 2: Survive the Giants
+You can't out-punch a giant, so you must out-think them. Competing head-on is a suicide mission.
+Two examples:
+The cautionary tale: A startup called Kite was a pioneer in AI code completion. They went head-to-head with Microsoft's GitHub Copilot. They lost. Badly. Microsoft had superior data, distribution, and the ability to subsidize the product.
+The success story: CodiumAI chose a different path. Instead of competing with Copilot on code generation, they focused on the tedious work around it—writing tests and documentation. They found a complementary niche and thrived, raising $65 million.
+Lens Question for Your Team: Is our strategy positioning us as a Pioneer, a Disruptor, or an Enhancer? And are we fighting a giant head-on or complementing them?
+Lens 2: The Value Lens (How to Win)
+Once you know where to play, the Value Lens focuses inward on how to win. Winning in AI isn't about having a feature; it's about creating a fundamentally better, defensible experience.
+Principle 1: Stop Sprinkling "AI Fairy Dust"
+Too many teams are simply "sprinkling AI" on old workflows and expecting magic. This is the fastest path to mediocrity. It means adding a superficial AI feature, like a chatbot, that doesn't fundamentally change the user's experience.
+Examples:
+"Fairy Dust": Google's AI Overviews. It's an AI feature bolted onto the existing search results page. It's helpful sometimes, but it doesn't change the core paradigm of sifting through https://www.google.com/search?q=links.
+Reimagined Experience: Perplexity. They started from scratch and asked, "What should search look like in an AI-first world?" The result is a conversational "answer engine" that provides direct, cited answers. It’s a new workflow, not just a new feature.
+Principle 2: Build Your Moat with Data You Own
+If your AI product is built entirely on a public API like GPT-4 and trained on public data, you have no moat. Your competitive advantage is zero. Your only true, lasting defense is leveraging proprietary data and workflows that your competitors cannot access.
+The rule is simple: The most valuable data is user-specific and generated through your unique workflow.
+Example: Spotify. Their moat isn't their library of 100 million songs (which is public). Their moat is your personal listening history—every song you've skipped, saved, or added to a playlist. This proprietary data allows their AI to create a Discover Weekly playlist that feels like magic and that no competitor can replicate.
+Lens Question for Your Team: What is our defensible moat? Is it based on a unique workflow and proprietary data, or just a clever use of a public API?
+Lens 3: The Execution Lens (How to Deliver)
+A brilliant strategy is useless if you can't deliver it. The Execution Lens focuses on navigating the unique technical and operational realities of AI that can sink even the best ideas.
+Principle 1: Master the AI Decision Triangle
+. Every AI feature forces a trade-off between three things: Cost, Capability, and Speed. You cannot maximize all three. A simple way to think about it is: "You can have the smartest model, the fastest model, or the cheapest model. Pick one." Your job as a product leader is to decide which one matters most for your use case.
+For example:
+Optimized for Speed: GitHub Copilot's auto-complete suggests code in milliseconds. It's not always the most brilliant code, but it's incredibly fast, which is what developers need in their flow.
+Optimized for Capability: A legal AI platform like Harvey needs to provide highly accurate, nuanced contract analysis. It can take longer and cost more per query, but its users value correctness above all else.
+Principle 2: Plan for Silent Failures
+Unlike old software that crashes with a 404 error, AI software fails silently. It doesn't break; it just gets quietly worse. This is called "model drift."
+The AI was trained on a snapshot of the world, but the world keeps changing. Over time, its recommendations become less relevant, its predictions less accurate.
+Keep in mind:
+Users rarely report this. They just stop using your product.
+This makes continuous monitoring a non-negotiable business function. You need systems to constantly evaluate the quality of your AI's outputs to catch these silent failures before your customers do.
+Lens Question for Your Team: How are we balancing the Cost-Capability-Speed triangle for our core feature? And what systems do we have to detect silent failures?
+Now given that you understand all three lenses, let’s build the AI product strategy from scratch.
+Shall we?
+4. How to Create an AI Product Strategy in 7 Simple Steps
+It’s time we roll up our sleeves.
+Because as a product or engineering leader, staring at a whiteboard, you might now be thinking:
+"Okay, but how do we actually build an AI product strategy that works from zero?"
+Just follow these 7 simple steps.
+These will help you:
+Create defensible moats
+Build products customers love
+Align with business economics
+Scale without collapsing under cost or complexity
+Step 1: Start With Business Value, Not Models
+The biggest mistake teams make is starting with: "What can GPT-4 do for us?"
+The right question is:
+"Where can AI unlock disproportionate business value for our users and our company?"
+Framework: The Value Stack
+Draw a three-layer pyramid:
+Top: Core user pain points
+Middle: Business outcomes tied to those pains
+Bottom: AI’s unique ability to compress time, cost, or effort
+Example:
+User pain: Sales reps spend 6 hours/week updating CRM.
+Business outcome: Accurate CRM data → higher close rate.
+AI leverage: Auto-generate structured CRM updates from calls.
+Now, you have a strategic wedge: AI that turns conversation data into CRM gold → saves reps 6 hours → drives revenue.
+If the AI doesn’t hit the bottom line (revenue, retention, cost savings), you’ve done something wrong.
+Step 2: Map Your Data Flows
+Models are public. Your data layer isn’t.
+This is where your moat starts.
+Exercise: Draw the “Data Map”
+Input Data: What raw signals feed the AI? (user actions, transactions, content)
+Feedback Data: What corrections or confirmations make it smarter?
+Context Layer: What proprietary metadata makes this output unique to you?
+Good Example: Figma AI
+Input: Design files
+Feedback: Edits, overrides
+Context: Team-specific design patterns & brand guidelines
+Result: Every use of Figma AI trains it to be your design assistant, not a generic one.
+Step 3: Choose Your AI UX Paradigm
+AI can live in your product in four dominant UX forms:
+Assistant: Embedded helper (Notion AI, Copilot)
+Agent: Autonomous actor that executes tasks (Adept, AI agents)
+Autonomous: Fully automated outcomes (run → done)
+Embedded Intelligence: Invisible AI improving core workflows
+How to choose:
+Assistants work when trust needs to build gradually.
+Agents work when workflows are repetitive & structured.
+Autonomous works when outputs are deterministic.
+Embedded works when AI augments existing UX without user disruption.
+Examples:
+GitHub Copilot → Assistant
+Perplexity AI → Embedded Intelligence
+Zapier AI Agents → Agent
+Step 4: Build Domain-Specific Evals
+Your AI strategy is only as good as how you define “good.”
+OpenAI uses benchmarks like MMLU to measure model intelligence across tasks.
+That’s fine for foundation models. But it’s useless for your product.
+Exercise: Define “Good” in Your Domain
+For a sales AI: “Good” = increased close rate, not perfect grammar.
+For a coding AI: “Good” = reduced bug rate, not syntactic accuracy.
+For a support AI: “Good” = faster resolution + CSAT, not token diversity.
+Example: Intercom Fin
+Intercom’s AI support bot wasn’t evaluated on “answer accuracy.”
+They measured:
+Tickets auto-resolved
+Resolution time reduction
+CSAT delta
+That's an AI product strategy.
+Step 5: Design Compounding Feedback Loops
+AI products live and die on feedback loops. The earlier you design them, the faster you compound advantage.
+Framework: The 3-Layer Loop
+Micro: Immediate correction (user edits AI output)
+Meso: Workflow signals (what users adopt or abandon)
+Macro: Business impact feedback (ROI, retention)
+Example: Grammarly
+Micro: User corrects suggestions → AI learns style
+Meso: Tracks which features users lean on → refines UX
+Macro: Measures writing time saved → ties to business plans
+Step 6: Align the Business Model With AI Economics
+AI economics are unforgiving.
+Without alignment, you can scale yourself into bankruptcy.
+And no, don't think that with just scale, you’ll cover these costs and just be profitable.
+Checklist:
+Do you know your cost per inference?
+Do you have a model-mixing plan (GPT-4 → distilled → cached)?
+Is your pricing value-based or token-based?
+Step 7: Make Trust a Feature
+AI trust isn’t a “nice to have.” It’s the core UX.
+Trust Levers:
+Transparency: Show confidence scores, sources, or reasoning.
+Control: Easy undo/override mechanisms.
+Progressive Autonomy: Start with suggestions → earn the right to automate.
+Case Study: GitHub Copilot
+Inline suggestions (transparent)
+Easy accept/reject (control)
+Gradually expanded to auto-complete whole functions (progressive autonomy)
